@@ -1,0 +1,8 @@
+.card__header{
+    height: 54px;
+    width: 100%;
+    background-image: url("../../../img/sidebar/card-header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px 10px 0 0;
+}

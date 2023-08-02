@@ -1,0 +1,10 @@
+.card__avatar{
+    position: absolute;
+    width: 68px;
+    height: 68px;
+    background-image: url("../../../img/profilepic.jpg");background-repeat: no-repeat;
+    background-size: cover;
+    top: 20px;
+    border: 1px solid var(--white);
+    border-radius: 50%;
+}

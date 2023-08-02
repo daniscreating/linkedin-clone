@@ -1,0 +1,4 @@
+.card__subtitle{
+    color: var(--gray-text);
+    font-size: 0.8rem;
+}

@@ -1,0 +1,12 @@
+.menu__span{
+    display: none;
+    color: var(--gray-text);
+    font-size: 14px;
+}
+
+@media screen and (min-width: 1100px){
+    .menu__span{
+        display: flex;
+    }
+}
+

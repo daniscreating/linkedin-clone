@@ -1,0 +1,19 @@
+.sidebar__card{
+    padding: 1rem 1rem;
+    border-bottom: 1px solid var(--border-bottom);
+
+}
+
+.sidebar__card--flex{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.sidebar__card--spacebetween{
+    justify-content: space-between;
+}
+
+.sidebar__card--center{
+    display: flex;
+    justify-content: center;
+}

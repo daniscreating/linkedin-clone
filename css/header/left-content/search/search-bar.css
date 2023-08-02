@@ -1,0 +1,22 @@
+.search__bar{
+    display: none;
+}
+
+
+@media screen and (min-width: 638px){
+    .search__bar{
+        min-width: 120px;
+        /* width: 280px; */
+        height: 34px;
+        background-color: var(--search-bg-btn);
+        border-radius: 4px;
+        display: flex;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .search__bar{
+        width: 100%;
+        max-width: 300px;
+    }
+}

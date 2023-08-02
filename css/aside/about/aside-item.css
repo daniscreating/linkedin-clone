@@ -1,0 +1,7 @@
+.aside__item{
+    font-size: 0.85rem;
+    color: var(--gray-text);
+    margin-right: 0.9rem;
+    line-height: 1.8;
+    font-weight: 400;
+}

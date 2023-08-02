@@ -1,0 +1,12 @@
+.sidebar{
+    width: 230px;
+    padding-top: 110px;
+    margin: 0 auto;
+    display: none;
+}
+
+@media screen and (min-width: 768px){
+    .sidebar{
+        display: block;
+    }
+}

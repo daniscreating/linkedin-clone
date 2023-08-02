@@ -1,0 +1,16 @@
+.box__image{
+    background-image: url("../../../img/image1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin: 0.4rem 0;
+}
+
+.box__container:nth-child(2) .box__image{
+    background-image: url("../../../img/image2.jpg");
+}
+
+.box__container:nth-child(3) .box__image{
+    background-image: url("../../../img/image3.jpg");
+    background-position: center;
+}

@@ -1,0 +1,5 @@
+.hr__text{
+    width: 100%;
+    color: var(--gray-text);
+    font-size: 0.8rem;
+}

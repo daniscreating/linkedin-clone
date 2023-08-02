@@ -1,0 +1,6 @@
+.box__head{
+    display: flex;
+    padding: 1rem;
+    gap: 0.6rem;
+    align-items: center;
+}

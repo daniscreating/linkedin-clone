@@ -1,0 +1,24 @@
+@media screen and (min-width: 768px) {
+    .inner__container{
+        max-width: unset;
+        width: 720px;
+        display: grid;
+        grid-template-areas: 
+        "sidebar main__container";
+        grid-template-columns: minmax(0,225px);
+        column-gap: 2.4rem;
+        margin-left: auto;
+        margin-right: auto;
+       
+    }
+}
+
+@media screen and (min-width: 992px){
+    .inner__container{
+        grid-template-areas: 
+        "sidebar main__container aside__container";
+        grid-template-columns: minmax(0,425px);
+        width: 1097px;
+        column-gap: 1.4rem;
+    }
+}

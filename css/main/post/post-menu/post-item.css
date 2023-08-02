@@ -1,0 +1,14 @@
+.post__item{
+    display: flex;
+    align-items: center;
+    color: var(--gray-text);
+    font-weight: 500;
+    gap: 0.5rem;
+    border: none;
+    border-radius: 3px;
+    background: none;
+}
+
+.post__item:hover{
+    background: var(--hover);
+}

@@ -1,0 +1,8 @@
+.aside__linkedin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    color: var(--main-text);
+    font-weight: 400;
+}

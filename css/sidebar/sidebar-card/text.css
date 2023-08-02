@@ -1,0 +1,28 @@
+.text{
+    font-size: 1rem;
+    color: var(--gray-text);
+    font-weight: 500;
+}
+
+.text--black{
+    color: var(--main-text);
+}
+
+.text--light{
+    font-weight: 400;
+}
+
+.text--black-underline{
+    color: var(--main-text);
+    text-decoration: underline;
+}
+
+.text--blue{
+    color: var(--button);
+}
+
+/* ASIDE CONTAINER, NEWS */
+
+.news .text--light{
+    font-size: 0.8rem;
+}

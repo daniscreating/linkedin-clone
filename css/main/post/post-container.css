@@ -1,0 +1,20 @@
+.post__container{
+    margin: 0.5rem 0;
+    width: 100%;
+    max-width: 500px;
+    background-color: var(--white);
+    border: 1px solid var(--border-light);
+}
+
+@media screen and (min-width: 500px){
+    .post__container{
+        border-radius: 10px;
+    }
+    
+}
+
+@media screen and (min-width: 768px) {
+    .post__container{
+        margin: 0;
+    }
+}

@@ -1,0 +1,11 @@
+.menu__profilepic{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profilepic{
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}

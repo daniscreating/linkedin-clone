@@ -1,0 +1,19 @@
+.box__userpic{
+    background-image: url("../../../../img/devf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+
+.box__container:nth-child(2) .box__userpic{
+    background-image: url("../../../../img/person1.jpg");
+    background-position: center;
+}
+
+.box__container:nth-child(3) .box__userpic{
+    background-image: url("../../../../img/person2.jpg");
+    background-position: center;
+
+}

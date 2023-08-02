@@ -1,0 +1,12 @@
+.aside__container{
+    width: 270px;
+    padding-top: 110px;
+    display: none;
+}
+
+@media screen and (min-width: 992px){
+    .aside__container{
+        display: block;
+    }
+}
+

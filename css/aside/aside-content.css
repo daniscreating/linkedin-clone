@@ -1,0 +1,11 @@
+.aside__content{
+    width: 100%;
+}
+
+.aside__content--news{
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    
+}

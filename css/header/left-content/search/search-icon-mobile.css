@@ -1,0 +1,9 @@
+.search__icon--mobile{
+    margin: 0 0.8rem 0 0.8rem;
+}
+
+@media screen and (min-width:638px){
+    .search__icon--mobile{
+        display: none;
+    }
+}

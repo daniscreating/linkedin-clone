@@ -1,0 +1,6 @@
+.box__dots{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+}

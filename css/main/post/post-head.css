@@ -1,0 +1,5 @@
+.post__head{
+    display: flex;
+    gap: 0.5em;
+    padding: 0.6rem;
+}

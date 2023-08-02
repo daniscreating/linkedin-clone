@@ -1,0 +1,13 @@
+.post__input{
+    border: 1px solid var(--border-default);
+    padding: 0 1rem;
+    border-radius: 25px;
+    width: 100%;
+}
+
+.post__input::placeholder{
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    color: var(--gray-text);
+
+}

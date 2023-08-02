@@ -1,0 +1,21 @@
+.menu__item--premium{
+    display: none;
+}
+
+
+@media screen and (min-width: 481px) {
+    .menu__item--premium{
+        display: flex;
+    }
+
+    .menu__item--premium{
+        width: 125px;
+    }
+    
+    .item__premium a{
+        color: var(--premium);
+        font-size: 0.7rem;
+        line-height: 0.8rem;
+        text-decoration: underline;
+    }
+}

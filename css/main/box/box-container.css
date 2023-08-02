@@ -1,0 +1,14 @@
+.box__container{
+    background-color: var(--white);
+    width: 100%;
+    max-width: 500px;
+    background-color: var(--white);
+    border: 1px solid var(--border-light);
+}
+
+@media screen and (min-width: 500px){
+    .box__container{
+        border-radius: 10px;
+    }
+    
+}

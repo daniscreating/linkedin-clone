@@ -1,0 +1,5 @@
+.search__input{
+    margin-left: 0.5rem;
+    border: none;
+    background-color: var(--search-bg-btn);
+}

@@ -1,0 +1,14 @@
+.sidebar__container{
+    background-color: var(--white);
+    border: 1px solid var(--border-light);
+    border-bottom: 0;
+}
+
+.sidebar__container--header{
+    border-radius: 10px 10px 0 0;
+}
+
+.sidebar__container--bottom{
+    margin-top: 0.7rem;
+    border-radius: 10px;
+}

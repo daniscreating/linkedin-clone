@@ -1,0 +1,42 @@
+:root{
+    --background: #f3f2ef;
+    --white: #ffff;
+    --brown-text: #be9e76;
+    --button: #0a66c2;
+    --main-text: #111413;
+    --gray-text: #7c7c7c;
+
+    --search-bg-btn: #eef3f9;
+    --search-icon: #737678;
+
+    --hover-icons: #191919;
+    --normal-icons: #666666;
+
+    --premium: #915907;
+
+    --border-bottom: rgba(0,0,0,0.08);
+    --border-default: #b2b2b2;
+    --border-light: #e0dfdc;
+
+    --hover: #ede9e3;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans 3', sans-serif;
+    box-sizing: border-box;
+}
+  
+
+body{
+    background-color: var(--background);
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}

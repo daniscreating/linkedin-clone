@@ -1,0 +1,15 @@
+.menu__item--business{
+    display: none;
+}
+
+.menu__item--business{
+    border-left: 1px solid var(--border-bottom);
+}
+
+
+@media screen and (min-width: 526px){
+    .menu__item--business{
+        display: flex;
+    }
+    
+}
